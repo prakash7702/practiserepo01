@@ -1,3 +1,8 @@
 this is first file
+<<<<<<< HEAD
+newone
+121332545776
+=======
 this is second file
 22334545534
+>>>>>>> b1f191e189c37df3eeadefc5a514653ae736b77f
